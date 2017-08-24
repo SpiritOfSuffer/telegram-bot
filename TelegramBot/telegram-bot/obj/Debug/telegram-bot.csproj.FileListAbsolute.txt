@@ -1,0 +1,6 @@
+C:\Users\Dom\documents\visual studio 2015\Projects\telegram-bot\telegram-bot\bin\Debug\telegram-bot.exe.config
+C:\Users\Dom\documents\visual studio 2015\Projects\telegram-bot\telegram-bot\obj\Debug\telegram-bot.exe
+C:\Users\Dom\documents\visual studio 2015\Projects\telegram-bot\telegram-bot\obj\Debug\telegram-bot.pdb
+C:\Users\Dom\documents\visual studio 2015\Projects\telegram-bot\telegram-bot\bin\Debug\telegram-bot.exe
+C:\Users\Dom\documents\visual studio 2015\Projects\telegram-bot\telegram-bot\bin\Debug\telegram-bot.pdb
+C:\Users\Dom\documents\visual studio 2015\Projects\telegram-bot\telegram-bot\obj\Debug\telegram-bot.csprojResolveAssemblyReference.cache
